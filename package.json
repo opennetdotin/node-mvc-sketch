@@ -1,0 +1,16 @@
+{
+  "name": "mvc-skeleton",
+  "version": "1.0.0",
+  "description": "\"NodeJs MVC Skeleton\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish tiwari\u001b[D\u001b[D\u001b[D\u001b[D\u001b[T",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0",
+    "socket.io": "^2.3.0"
+  }
+}
